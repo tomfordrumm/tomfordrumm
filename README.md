@@ -55,13 +55,13 @@ Open skills that improve how CLI agents investigate code, record decisions, debu
 </td>
 <td width="50%" valign="top">
 
-### 💬 [Padik](https://github.com/tomfordrumm/Padik)
+### 🎬 [OpenRoughCut](https://github.com/tomfordrumm/OpenRoughCut)
 
-An early-stage self-hosted real-time messenger with shared rooms, direct messages, notifications, invitations, and experimental browser-side encrypted secret chats.
+A local video rough-cut tool that finds long silences and exports editable timelines for Final Cut Pro, Premiere Pro, and DaVinci Resolve.
 
-`Laravel` `Vue` `Reverb` `Redis` `Docker`
+`Node.js` `FFmpeg` `Electron` `Video Editing`
 
-[Source](https://github.com/tomfordrumm/Padik) · [Contribute](https://github.com/tomfordrumm/Padik/issues)
+[Source](https://github.com/tomfordrumm/OpenRoughCut) · [Contribute](https://github.com/tomfordrumm/OpenRoughCut/issues)
 
 </td>
 </tr>
@@ -97,7 +97,7 @@ A community-maintained collection of services, job boards, and platforms where d
 - ☁️ **[CloudBox](https://github.com/tomfordrumm/CloudBox)** — a private, self-hosted cloud file manager with sharing links.
 - 🖼️ **[Image Compressor](https://github.com/tomfordrumm/image-compressor)** — offline image compression directly in the browser.
 - 🔳 **[QR Code Generator](https://github.com/tomfordrumm/QRCode_generator)** — customizable QR codes with logo, color, and export controls.
-- 🎬 **[OpenRoughCut](https://github.com/tomfordrumm/OpenRoughCut)** — a local video rough-cut tool that finds long silences and exports editable timelines for Final Cut Pro, Premiere Pro, and DaVinci Resolve.
+- 💬 **[Padik](https://github.com/tomfordrumm/Padik)** — an early-stage self-hosted real-time messenger with shared rooms, direct messages, notifications, invitations, and experimental browser-side encrypted secret chats.
 - 🧹 **[Sweep](https://github.com/tomfordrumm/sweep)** — a macOS and Windows desktop app that helps keep the Downloads folder organized by finding old files and suggesting what to delete, move, or keep.
 
 ## My toolkit
