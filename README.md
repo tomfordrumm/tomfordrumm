@@ -97,6 +97,8 @@ A community-maintained collection of services, job boards, and platforms where d
 - ☁️ **[CloudBox](https://github.com/tomfordrumm/CloudBox)** — a private, self-hosted cloud file manager with sharing links.
 - 🖼️ **[Image Compressor](https://github.com/tomfordrumm/image-compressor)** — offline image compression directly in the browser.
 - 🔳 **[QR Code Generator](https://github.com/tomfordrumm/QRCode_generator)** — customizable QR codes with logo, color, and export controls.
+- 🎬 **[OpenRoughCut](https://github.com/tomfordrumm/OpenRoughCut)** — a local video rough-cut tool that finds long silences and exports editable timelines for Final Cut Pro, Premiere Pro, and DaVinci Resolve.
+- 🧹 **[Sweep](https://github.com/tomfordrumm/sweep)** — a macOS and Windows desktop app that helps keep the Downloads folder organized by finding old files and suggesting what to delete, move, or keep.
 
 ## My toolkit
 
