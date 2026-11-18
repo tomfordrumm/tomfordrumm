@@ -1,13 +1,69 @@
-# Hi, I'm Sviatoslav.
+<div align="center">
 
-I build tools for putting AI to work: deploying websites from a coding agent, testing prompts against datasets, and turning raw recordings into editable timelines.
+# Hi, I'm Sviatoslav 👋
+
+### I build tools for putting AI to work.
+
+[![GitHub](https://img.shields.io/badge/GitHub-tomfordrumm-181717?style=flat-square&logo=github)](https://github.com/tomfordrumm)
+[![404 Hub](https://img.shields.io/badge/Community-404--Hub-7c3aed?style=flat-square&logo=github)](https://github.com/404-Hub)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Welcome-22c55e?style=flat-square)](#contributing)
+
+</div>
+
+My projects include tools for deploying websites from a coding agent, testing prompts against datasets, and turning raw recordings into editable timelines.
 
 ## Selected projects
 
-- **[YHub](https://yhub.net/)** · Publish a website from a coding agent. The deployment workflow is available as an [open-source skill](https://github.com/404-Hub/yhub-deploy-skill). [JavaScript SDK](https://github.com/404-Hub/yhub-js-sdk)
-- **[PRISM](https://github.com/tomfordrumm/prism)** · Version prompts, test LLM workflows against datasets, and inspect individual runs.
-- **[OpenRoughCut](https://github.com/tomfordrumm/OpenRoughCut)** · Cut long pauses and repeated takes from recordings and export an editable timeline. [Download for macOS or Windows](https://github.com/tomfordrumm/OpenRoughCut/releases/latest).
-- **[Qipli](https://github.com/tomfordrumm/Qipli)** · A native macOS clipboard manager that lets you collect several items and paste them in order. [Download for macOS](https://github.com/tomfordrumm/Qipli/releases/latest).
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 [YHub](https://yhub.net/)
+
+Publish a website from a coding agent. The deployment workflow is available as an open-source skill.
+
+`JavaScript` `TypeScript` `Agent Skills` `Hosting`
+
+[Deploy Skill](https://github.com/404-Hub/yhub-deploy-skill) · [JavaScript SDK](https://github.com/404-Hub/yhub-js-sdk)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔮 [PRISM](https://github.com/tomfordrumm/prism)
+
+Version prompts, test LLM workflows against datasets, and inspect individual runs.
+
+`Laravel` `Vue` `TypeScript` `Docker` `LLM`
+
+[Source](https://github.com/tomfordrumm/prism) · [Contribute](https://github.com/tomfordrumm/prism/issues)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 [OpenRoughCut](https://github.com/tomfordrumm/OpenRoughCut)
+
+Cut long pauses and repeated takes from recordings and export an editable timeline.
+
+`Node.js` `FFmpeg` `Electron` `Video Editing`
+
+[Download for macOS or Windows](https://github.com/tomfordrumm/OpenRoughCut/releases/latest)
+
+</td>
+<td width="50%" valign="top">
+
+### 📋 [Qipli](https://github.com/tomfordrumm/Qipli)
+
+A native macOS clipboard manager that lets you collect several items and paste them in order.
+
+`Swift` `macOS` `Clipboard`
+
+[Download for macOS](https://github.com/tomfordrumm/Qipli/releases/latest)
+
+</td>
+</tr>
+</table>
 
 ## Currently building
 
