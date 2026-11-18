@@ -1,97 +1,23 @@
-<div align="center">
+# Hi, I'm Sviatoslav.
 
-# Hi, I'm Sviatoslav 👋
+I build tools for putting AI to work: deploying websites from a coding agent, testing prompts against datasets, and turning raw recordings into editable timelines.
 
-### I build open-source AI tools, self-hosted products, and practical web applications.
+## Selected projects
 
-[![GitHub](https://img.shields.io/badge/GitHub-tomfordrumm-181717?style=flat-square&logo=github)](https://github.com/tomfordrumm)
-[![404 Hub](https://img.shields.io/badge/Community-404--Hub-7c3aed?style=flat-square&logo=github)](https://github.com/404-Hub)
-[![Open Source](https://img.shields.io/badge/Open%20Source-Welcome-22c55e?style=flat-square)](#contributing)
+- **[YHub](https://yhub.net/)** · Publish a website from a coding agent. The deployment workflow is available as an [open-source skill](https://github.com/404-Hub/yhub-deploy-skill). [JavaScript SDK](https://github.com/404-Hub/yhub-js-sdk)
+- **[PRISM](https://github.com/tomfordrumm/prism)** · Version prompts, test LLM workflows against datasets, and inspect individual runs.
+- **[OpenRoughCut](https://github.com/tomfordrumm/OpenRoughCut)** · Cut long pauses and repeated takes from recordings and export an editable timeline. [Download for macOS or Windows](https://github.com/tomfordrumm/OpenRoughCut/releases/latest).
+- **[Qipli](https://github.com/tomfordrumm/Qipli)** · A native macOS clipboard manager that lets you collect several items and paste them in order. [Download for macOS](https://github.com/tomfordrumm/Qipli/releases/latest).
 
-</div>
+## Currently building
 
-I'm a full-stack product engineer who likes turning ideas into complete, usable systems — from prompt engineering tools and coding agents to self-hosted apps and community resources.
-
-My current focus is **AI developer tooling**, **open-source systems**, and products that people can run, explore, and improve themselves.
-
-## Featured projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔮 [PRISM](https://github.com/tomfordrumm/prism)
-
-An open-source Prompt IDE for building, testing, and improving LLM prompts. Design templates, create agents and chains, run dataset tests, trace executions, and iterate with AI-assisted feedback.
-
-`Laravel` `Vue` `TypeScript` `Docker` `LLM`
-
-[Source](https://github.com/tomfordrumm/prism) · [Contribute](https://github.com/tomfordrumm/prism/issues)
-
-</td>
-<td width="50%" valign="top">
-
-### 🚀 [YHub](https://yhub.net)
-
-Hosting built for publishing websites with AI agents. The public ecosystem includes a reusable deployment skill and a browser/TypeScript SDK for hosted-site runtime APIs.
-
-`JavaScript` `TypeScript` `Agent Skills` `Hosting`
-
-[Deploy Skill](https://github.com/404-Hub/yhub-deploy-skill) · [JavaScript SDK](https://github.com/404-Hub/yhub-js-sdk)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 [Agent Skills](https://github.com/tomfordrumm/agent-skills)
-
-Open skills that improve how CLI agents investigate code, record decisions, debug systems, and approach engineering work.
-
-`Codex` `Claude Code` `Agent Skills` `MIT`
-
-[Browse skills](https://github.com/tomfordrumm/agent-skills) · [Contribute](https://github.com/tomfordrumm/agent-skills/issues)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎬 [OpenRoughCut](https://github.com/tomfordrumm/OpenRoughCut)
-
-A local video rough-cut tool that finds long silences and exports editable timelines for Final Cut Pro, Premiere Pro, and DaVinci Resolve.
-
-`Node.js` `FFmpeg` `Electron` `Video Editing`
-
-[Source](https://github.com/tomfordrumm/OpenRoughCut) · [Contribute](https://github.com/tomfordrumm/OpenRoughCut/issues)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 [mAgent](https://github.com/tomfordrumm/mAgent)
-
-A minimal coding agent that runs in your terminal, works with a local codebase, and uses the OpenAI Responses API to read files, make changes, and run project commands.
-
-`Node.js` `OpenAI API` `CLI` `Tool Calling`
-
-[Source](https://github.com/tomfordrumm/mAgent) · [Contribute](https://github.com/tomfordrumm/mAgent/issues)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧭 [IT Vacancy Source List](https://github.com/404-Hub/it-vacancy-source-list)
-
-A community-maintained collection of services, job boards, and platforms where developers can find IT vacancies. Contributions are intentionally simple and welcome.
-
-`Community` `Open Data` `Career` `Contributions Welcome`
-
-[Explore the list](https://github.com/404-Hub/it-vacancy-source-list/blob/main/list.md) · [Contribute](https://github.com/404-Hub/it-vacancy-source-list/pulls)
-
-</td>
-</tr>
-</table>
+**[Cutroom](https://github.com/tomfordrumm/cutroom)** is an experimental, self-hosted video editor. It uses the OpenRoughCut core to analyze recordings, then runs a coding agent to build an edit you can review before rendering the final video.
 
 ## More things I've built
+
+- **[Agent Skills](https://github.com/tomfordrumm/agent-skills)** · Reusable skills for Codex and Claude Code, from investigating bugs to recording engineering decisions.
+- **[mAgent](https://github.com/tomfordrumm/mAgent)** · A minimal terminal coding agent built with the OpenAI Responses API.
+- **[IT Vacancy Source List](https://github.com/404-Hub/it-vacancy-source-list)** · A community-maintained list of places to find IT jobs.
 
 - 🍽️ **[RMS](https://github.com/tomfordrumm/rms)** — QR menus and online table reservations for restaurants.
 - ☁️ **[CloudBox](https://github.com/tomfordrumm/CloudBox)** — a private, self-hosted cloud file manager with sharing links.
